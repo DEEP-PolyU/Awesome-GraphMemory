@@ -45,21 +45,13 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 <p align="center"><img width="100%" src="figures/illustration_memory_extraction.png" /></p>
 
-
-
-
-
 ### Memory Storage
 
-<p align="center"><img width="100%" src="figures/construction-1.pdf" /></p>
-
-
+<p align="center"><img width="100%" src="figures/illustration_memory_construction.png" /></p>
 
 ### Memory Retrieval
 
 <p align="center"><img width="100%" src="figures/retrieval.png" /></p>
-
-
 
 ### Memory Evolution
 
