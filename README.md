@@ -17,7 +17,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 <div>
 <h3 align="center">
-       <p align="center"><img width="100%" src="figures/comparison.png" /></p>
+       <p align="center"><img width="100%" src="figures/illustration_memory_comparison.png" /></p>
     <p align="center"><em>Comparison between Traditional Agent Memory and Graph-based Agent Memory.</em></p>
 </div>
 
