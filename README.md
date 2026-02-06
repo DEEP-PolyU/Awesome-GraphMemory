@@ -46,36 +46,36 @@ This repository provides a comprehensive collection of research papers, benchmar
 <p align="center"><img width="100%" src="figures/extraction.png" /></p>
 
 ### Memory Extraction
-- (arXiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
-- (EMNLP 2025) **Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering** [[Paper]](https://aclanthology.org/2025.emnlp-industry.174/)
+- (arXiv'25) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
+- (EMNLP'25) **Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering** [[Paper]](https://aclanthology.org/2025.emnlp-industry.174/)
 
 <p align="center"><img width="100%" src="figures/storage.png" /></p>
 
 ### Memory Storage
 #### Knowledge Graph Structure
-- (TMLR 2025) **MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory**  [[Paper]](https://arxiv.org/abs/2404.11672)
-- (arXiv 2025) **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents** [[Paper]](https://arxiv.org/abs/2407.04363)
-- (arXiv 2025) **Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory** [[Paper]](https://arxiv.org/abs/2504.19413)
+- (TMLR'25) **MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory**  [[Paper]](https://arxiv.org/abs/2404.11672)
+- (arXiv'25) **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents** [[Paper]](https://arxiv.org/abs/2407.04363)
+- (arXiv'25) **Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory** [[Paper]](https://arxiv.org/abs/2504.19413)
 
 #### Hierarchical Memory Structure
-- (arXiv 2025) **ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents** [[Paper]](https://arxiv.org/abs/2511.12960)
-- (arXiv 2025) **SGMem: Sentence Graph Memory for Long-Term Conversational Agents** [[Paper]](https://arxiv.org/abs/2509.21212)
-- (arXiv 2025) **G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems** [[Paper]](https://arxiv.org/abs/2506.07398)
-- (arXiv 2025) **LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning** [[Paper]](https://arxiv.org/abs/2502.05453)
-- (EMNLP 2024) **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** [[Paper]](https://arxiv.org/abs/2409.19401)
+- (arXiv'25) **ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents** [[Paper]](https://arxiv.org/abs/2511.12960)
+- (arXiv'25) **SGMem: Sentence Graph Memory for Long-Term Conversational Agents** [[Paper]](https://arxiv.org/abs/2509.21212)
+- (arXiv'25) **G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems** [[Paper]](https://arxiv.org/abs/2506.07398)
+- (arXiv'25) **LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning** [[Paper]](https://arxiv.org/abs/2502.05453)
+- (EMNLP'24) **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** [[Paper]](https://arxiv.org/abs/2409.19401)
 
 #### Temporal Graph Structure
-- (arXiv 2025) **Zep: A Temporal Knowledge Graph Architecture for Agent Memory** [[Paper]](https://arxiv.org/abs/2501.13956)
-- (arXiv 2025) **TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues** [[Paper]](https://arxiv.org/abs/2502.01630)
-- (arXiv 2025) **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning** [[Paper]](https://arxiv.org/abs/2510.13614)
+- (arXiv'25) **Zep: A Temporal Knowledge Graph Architecture for Agent Memory** [[Paper]](https://arxiv.org/abs/2501.13956)
+- (arXiv'25) **TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues** [[Paper]](https://arxiv.org/abs/2502.01630)
+- (arXiv'25) **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning** [[Paper]](https://arxiv.org/abs/2510.13614)
 
 #### Hypergraph Structure
-- (arXiv 2025) **HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation** [[Paper]](https://arxiv.org/abs/2503.21322)
-- (arXiv 2025) **HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge** [[Paper]](https://arxiv.org/abs/2502.18125)
+- (arXiv'25) **HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation** [[Paper]](https://arxiv.org/abs/2503.21322)
+- (arXiv'25) **HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge** [[Paper]](https://arxiv.org/abs/2502.18125)
 
 #### Hybrid Graph Architectures
-- (arXiv 2024) **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks** [[Paper]](https://arxiv.org/abs/2408.03615)
-- (arXiv 2024) **KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph** [[Paper]](https://arxiv.org/abs/2402.11163)
+- (arXiv'24) **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks** [[Paper]](https://arxiv.org/abs/2408.03615)
+- (arXiv'24) **KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph** [[Paper]](https://arxiv.org/abs/2402.11163)
 
 ### Memory Retrieval
 
@@ -89,32 +89,32 @@ This repository provides a comprehensive collection of research papers, benchmar
 #### Internal Self-Evolving
 
 
-- (Arxiv'25) **Zep: a temporal knowledge graph architecture for agent memory**. [[paper]](https://arxiv.org/abs/2501.13956)
-- (Arxiv'25) **Nemori: Self-organizing agent memory inspired by cognitive science**. [[paper]](https://arxiv.org/abs/2508.03341)
-- (Arxiv'25) **Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2509.25911)
-- (Arxiv'24) **From local to global: A graph rag approach to query-focused summarization**. [[paper]](https://arxiv.org/abs/2404.16130)
-- (Arxiv'23) **RecallM: An Adaptable Memory Mechanism with Temporal Understanding for Large Language Models**. [[paper]](https://arxiv.org/abs/2307.02738)
-- (Arxiv'25) **Agent kb: Leveraging cross-domain experience for agentic problem solving**. [[paper]](https://arxiv.org/abs/2507.06229)
-- (Arxiv'25) **Mem0: Building production-ready ai agents with scalable long-term memory**. [[paper]](https://arxiv.org/abs/2504.19413)
-- (Arxiv'25) **Flex: Continuous agent evolution via forward learning from experience**. [[paper]](https://arxiv.org/abs/2511.06449)
+- (aXiv'25) **Zep: a temporal knowledge graph architecture for agent memory**. [[paper]](https://arxiv.org/abs/2501.13956)
+- (aXiv'25) **Nemori: Self-organizing agent memory inspired by cognitive science**. [[paper]](https://arxiv.org/abs/2508.03341)
+- (aXiv'25) **Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2509.25911)
+- (aXiv'24) **From local to global: A graph rag approach to query-focused summarization**. [[paper]](https://arxiv.org/abs/2404.16130)
+- (aXiv'23) **RecallM: An Adaptable Memory Mechanism with Temporal Understanding for Large Language Models**. [[paper]](https://arxiv.org/abs/2307.02738)
+- (aXiv'25) **Agent kb: Leveraging cross-domain experience for agentic problem solving**. [[paper]](https://arxiv.org/abs/2507.06229)
+- (aXiv'25) **Mem0: Building production-ready ai agents with scalable long-term memory**. [[paper]](https://arxiv.org/abs/2504.19413)
+- (aXiv'25) **Flex: Continuous agent evolution via forward learning from experience**. [[paper]](https://arxiv.org/abs/2511.06449)
 - (NeurIPS'23) **Reflexion: language agents with verbal reinforcement learning**. [[paper]](https://openreview.net/pdf?id=vAElhFcKW6) 
 - (ICLR'24) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph**. [[paper]](https://openreview.net/forum?id=nnVO1PvbTv)
 - (TKDE'26) **Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning With Knowledge Graphs**. [[paper]](https://arxiv.org/abs/2506.10508)
 - (ICLR'24) **Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning**. [[paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q)
 - (AAAI'24) **Memorybank: Enhancing large language models with long-term memory**. [[paper]](https://arxiv.org/abs/2305.10250)
 - (EMNLP'25) **Memory OS of AI Agent**. [[paper]](https://aclanthology.org/2025.emnlp-main.1318.pdf)
-- (Arxiv'23) **MemGPT: Towards LLMs as Operating Systems**. [[paper]](https://arxiv.org/abs/2310.08560)
+- (aXiv'23) **MemGPT: Towards LLMs as Operating Systems**. [[paper]](https://arxiv.org/abs/2310.08560)
 - (ICML'25) **From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**. [[paper]](https://openreview.net/forum?id=LWH8yn4HS2)
 
 #### External Self-Exploration
 
 - (AAAI'24) **Expel: Llm agents are experiential learners**. [[paper]](https://arxiv.org/abs/2308.10144)
 - (ICRA'24) **MATRIX: multi-agent trajectory generation with diverse contexts**. [[paper]](https://arxiv.org/abs/2403.06041)
-- (Arxiv'25) **Memory-r1: Enhancing large language model agents to manage and utilize memories via reinforcement learning**. [[paper]](https://arxiv.org/abs/2508.19828)
-- (Arxiv'25) **Inside-out: Hidden factual knowledge in llms**. [[paper]](https://arxiv.org/abs/2503.15299)
-- (Arxiv'25) **Memevolve: Meta-evolution of agent memory systems**. [[paper]](https://arxiv.org/abs/2512.18746)
-- (Arxiv'26) **Beyond static summarization: Proactive memory extraction for llm agents**. [[paper]](https://arxiv.org/abs/2601.04463)
-- (Arxiv'25) **Agentevolver: Towards efficient self-evolving agent system**. [[paper]](https://arxiv.org/abs/2511.10395)
+- (aXiv'25) **Memory-r1: Enhancing large language model agents to manage and utilize memories via reinforcement learning**. [[paper]](https://arxiv.org/abs/2508.19828)
+- (aXiv'25) **Inside-out: Hidden factual knowledge in llms**. [[paper]](https://arxiv.org/abs/2503.15299)
+- (aXiv'25) **Memevolve: Meta-evolution of agent memory systems**. [[paper]](https://arxiv.org/abs/2512.18746)
+- (aXiv'26) **Beyond static summarization: Proactive memory extraction for llm agents**. [[paper]](https://arxiv.org/abs/2601.04463)
+- (aXiv'25) **Agentevolver: Towards efficient self-evolving agent system**. [[paper]](https://arxiv.org/abs/2511.10395)
 - (TechReport_Moonshot'25) **Kimi K2.5**. [[paper]](https://www.kimi.com/blog/kimi-k2-5.html)
 
 
