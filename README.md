@@ -86,6 +86,40 @@ This repository provides a comprehensive collection of research papers, benchmar
 <p align="center"><img width="100%" src="figures/evolution.png" /></p>
 
 
+#### Internal Self-Evolving
+
+
+- (Arxiv'25) **Zep: a temporal knowledge graph architecture for agent memory**. [[paper]](https://arxiv.org/abs/2501.13956)
+- (Arxiv'25) **Nemori: Self-organizing agent memory inspired by cognitive science**. [[paper]](https://arxiv.org/abs/2508.03341)
+- (Arxiv'25) **Mem-$\alpha$: Learning Memory Construction via Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2509.25911)
+- (Arxiv'24) **From local to global: A graph rag approach to query-focused summarization**. [[paper]](https://arxiv.org/abs/2404.16130)
+- (Arxiv'23) **RecallM: An Adaptable Memory Mechanism with Temporal Understanding for Large Language Models**. [[paper]](https://arxiv.org/abs/2307.02738)
+- (Arxiv'25) **Agent kb: Leveraging cross-domain experience for agentic problem solving**. [[paper]](https://arxiv.org/abs/2507.06229)
+- (Arxiv'25) **Mem0: Building production-ready ai agents with scalable long-term memory**. [[paper]](https://arxiv.org/abs/2504.19413)
+- (Arxiv'25) **Flex: Continuous agent evolution via forward learning from experience**. [[paper]](https://arxiv.org/abs/2511.06449)
+- (NeurIPS'23) **Reflexion: language agents with verbal reinforcement learning**. [[paper]](https://openreview.net/pdf?id=vAElhFcKW6) 
+- (ICLR'24) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph**. [[paper]](https://openreview.net/forum?id=nnVO1PvbTv)
+- (TKDE'26) **Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning With Knowledge Graphs**. [[paper]](https://arxiv.org/abs/2506.10508)
+- (ICLR'24) **Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning**. [[paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q)
+- (AAAI'24) **Memorybank: Enhancing large language models with long-term memory**. [[paper]](https://arxiv.org/abs/2305.10250)
+- (EMNLP'25) **Memory OS of AI Agent**. [[paper]](https://aclanthology.org/2025.emnlp-main.1318.pdf)
+- (Arxiv'23) **MemGPT: Towards LLMs as Operating Systems**. [[paper]](https://arxiv.org/abs/2310.08560)
+- (ICML'25) **From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**. [[paper]](https://openreview.net/forum?id=LWH8yn4HS2)
+
+#### External Self-Exploration
+
+- (AAAI'24) **Expel: Llm agents are experiential learners**. [[paper]](https://arxiv.org/abs/2308.10144)
+- (ICRA'24) **MATRIX: multi-agent trajectory generation with diverse contexts**. [[paper]](https://arxiv.org/abs/2403.06041)
+- (Arxiv'25) **Memory-r1: Enhancing large language model agents to manage and utilize memories via reinforcement learning**. [[paper]](https://arxiv.org/abs/2508.19828)
+- (Arxiv'25) **Inside-out: Hidden factual knowledge in llms**. [[paper]](https://arxiv.org/abs/2503.15299)
+- (Arxiv'25) **Memevolve: Meta-evolution of agent memory systems**. [[paper]](https://arxiv.org/abs/2512.18746)
+- (Arxiv'26) **Beyond static summarization: Proactive memory extraction for llm agents**. [[paper]](https://arxiv.org/abs/2601.04463)
+- (Arxiv'25) **Agentevolver: Towards efficient self-evolving agent system**. [[paper]](https://arxiv.org/abs/2511.10395)
+- (TechReport_Moonshot'25) **Kimi K2.5**. [[paper]](https://www.kimi.com/blog/kimi-k2-5.html)
+
+
+
+
 ## 📃 Citation
 
 ```
