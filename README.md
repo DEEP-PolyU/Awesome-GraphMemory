@@ -156,10 +156,13 @@ This repository provides a comprehensive collection of research papers, benchmar
 ## 📃 Citation
 
 ```
-@article{yang2026graph,
-  title={Graph-based Agent Memory: Taxonomy, Techniques, and Applications},
-  author={Chang Yang and Chuang Zhou and Yilin Xiao and Su Dong and Luyao Zhuang and Yujing Zhang and Zhu Wang and Zijin Hong and Zheng Yuan and Zhishang Xiang and Shengyuan Chen and Huachi Zhou and Qinggang Zhang and Ninghao Liu and Jinsong Su and Xinrun Wang and Yi Chang and Xiao Huang},
-  journal={arXiv preprint arXiv:2602.05665},
-  year={2025}
+@misc{yang2026graphbasedagentmemorytaxonomy,
+      title={Graph-based Agent Memory: Taxonomy, Techniques, and Applications}, 
+      author={Chang Yang and Chuang Zhou and Yilin Xiao and Su Dong and Luyao Zhuang and Yujing Zhang and Zhu Wang and Zijin Hong and Zheng Yuan and Zhishang Xiang and Shengyuan Chen and Huachi Zhou and Qinggang Zhang and Ninghao Liu and Jinsong Su and Xinrun Wang and Yi Chang and Xiao Huang},
+      year={2026},
+      eprint={2602.05665},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.05665}, 
 }
 ```
