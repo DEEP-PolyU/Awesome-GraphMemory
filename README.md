@@ -152,15 +152,15 @@ This repository provides a comprehensive collection of research papers, benchmar
 | DIGIMON | Large-scale graphRAG | [[arXiv'25]](https://www.arxiv.org/pdf/2503.04338) | [[Github]](https://github.com/JayLZhou/GraphRAG) |
 
 # 💻 Open-source Project
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://langchain-ai.github.io/langmem/) LangMem:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjunlp/LightMem) LightMem:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OPPO-PersonalAI/O-Mem) O-Mem:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaviraOSS/OpenMemory) OpenMemory:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemoriLabs/Memori) Memori:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemMachine/MemMachine) MemMachine:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kingjulio8238/Memary) Memary:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getzep/graphiti) Graphiti:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memvid/memvid) Memvid:
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://langchain-ai.github.io/langmem/) LangMem: a software development kit (SDK) from LangChain designed to give AI agents long-term memory
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjunlp/LightMem) LightMem: Lightweight and efficient memory-augmented generation
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OPPO-PersonalAI/O-Mem) O-Mem: Omni memory system for personalized, long horizon, self-evolving agents
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaviraOSS/OpenMemory) OpenMemory: A cognitive memory engine for LLMs and agents
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemoriLabs/Memori) Memori: A system that gives your AI agents a structured, persistent memory layer
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemMachine/MemMachine) MemMachine: A multi-layered memory system for AI agents
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kingjulio8238/Memary) Memary: A longterm memory for autonomous agents
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getzep/graphiti) Graphiti: A framework for building and querying temporally-aware knowledge graphs, specifically tailored for AI agents operating in dynamic environments
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memvid/memvid) Memvid: A single-file memory layer for AI agents with instant retrieval and long-term memory
 
 
 ## 📃 Citation
