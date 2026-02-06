@@ -279,7 +279,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 | StoryBench | Interaction | Text | Interactive fiction memory | [[Paper]](https://arxiv.org/abs/2506.13356) | [[Website]](https://arxiv.org/abs/2506.13356) |
 | DialSim | Interaction | Text | Multi-dialogue understanding | [[Paper]](https://arxiv.org/abs/2406.13144) | [[Website]](https://arxiv.org/abs/2406.13144) |
 | RealMem | Interaction | Text | Project-oriented long-term memory interaction | [[Paper]](https://arxiv.org/abs/2601.06966) | [[Github]](https://github.com/AvatarMemory/RealMemBench) |
-| PersonaMem | Personalization | Text | Dynamic user profiling | [[Paper]](https://arxiv.org/abs/2502.04002) | [[Github]](https://github.com/bowen-upenn/PersonaMem) |
+| PersonaMem | Personalization | Text | Dynamic user profiling | [[Paper]](https://arxiv.org/abs/2504.14225) | [[Github]](https://github.com/bowen-upenn/PersonaMem) |
 | PerLTQA | Personalization | Text | Social personalized interactions | [[Paper]](https://arxiv.org/abs/2402.16288) | [[Website]](https://arxiv.org/abs/2402.16288) |
 | MemoryBank | Personalization | Text | User memory updating | [[Paper]](https://arxiv.org/abs/2406.00594) | [[Github]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
 | MPR | Personalization | Text | User personalization | [[Paper]](https://arxiv.org/abs/2502.02332) | [[Github]](https://github.com/nuster1128/MPR) |
