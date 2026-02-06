@@ -9,7 +9,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 🤗 **You are vey welcome to contribute to this repository** by launching an issue or a pull request. If you find any missing resources or come across interesting new research works, please don’t hesitate to open an issue or submit a PR!
 
-📫 **Contact us via emails:** `chang.yang@connect.polyu.hk`
+📫 **Contact us via emails:** `chang.yang@connect.polyu.hk, qinggang.zhang@polyu.edu.hk`
 
 ---
 
