@@ -291,7 +291,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 | WebShop | Web | Text+Image | E-commerce web interaction | [[Paper]](https://arxiv.org/abs/2207.01206) | [[Github]](https://github.com/princeton-nlp/WebShop) |
 | WebArena | Web | Text+Image | Web interaction | [[Paper]](https://arxiv.org/abs/2307.13854) | [[Github]](https://github.com/web-arena-x/webarena) |
 | MMInA | Web | Text+Image | Multihop web agent | [[Paper]](https://arxiv.org/abs/2404.09992) | [[Website]](https://mmina.cliangyu.com/) |
-| NQ | LongContext | Text | Natural question answering | [[Paper]](https://arxiv.org/abs/1906.00300) | [[Website]](https://ai.google.com/research/NaturalQuestions) |
+| NQ | LongContext | Text | Natural question answering | [[Paper]](https://aclanthology.org/Q19-1026/) | [[Website]](https://ai.google.com/research/NaturalQuestions) |
 | TriviaQA | LongContext | Text | Large-scale question answering | [[Paper]](https://arxiv.org/abs/1705.03551) | [[Website]](http://nlp.cs.washington.edu/triviaqa/) |
 | PopQA | LongContext | Text | Adaptive retrieval augmentation | [[Paper]](https://arxiv.org/abs/2305.09902) | [[Github]](https://github.com/AlexTMallen/adaptive-retrieval) |
 | HotpotQA | LongContext | Text | Explainable multi-hop QA | [[Paper]](https://arxiv.org/abs/1809.09600) | [[Website]](https://hotpotqa.github.io/) |
