@@ -296,7 +296,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 | PopQA | LongContext | Text | Adaptive retrieval augmentation | [[Paper]](https://aclanthology.org/2023.acl-long.546/) | [[Github]](https://github.com/AlexTMallen/adaptive-retrieval) |
 | HotpotQA | LongContext | Text | Explainable multi-hop QA | [[Paper]](https://arxiv.org/abs/1809.09600) | [[Website]](https://hotpotqa.github.io/) |
 | 2wikimultihopQA | LongContext | Text | Multi-hop QA | [[Paper]](https://arxiv.org/abs/2011.01060) | [[Github]](https://github.com/Alab-NII/2wikimultihop) |
-| Musique | LongContext | Text | Multi-hop QA | [[Paper]](https://arxiv.org/abs/2202.09726) | [[Github]](https://github.com/stonybrooknlp/musique) |
+| Musique | LongContext | Text | Multi-hop QA | [[Paper]](https://arxiv.org/abs/2108.00573) | [[Github]](https://github.com/stonybrooknlp/musique) |
 | LongBench | LongContext | Text | Long-context understanding | [[Paper]](https://arxiv.org/abs/2308.14508) | [[Github]](https://github.com/THUDM/LongBench) |
 | LongBench v2 | LongContext | Text | Long-context multitasks | [[Paper]](https://arxiv.org/abs/2412.15204) | [[Github]](https://github.com/THUDM/LongBench) |
 | RULER | LongContext | Text | Long-context retrieval | [[Paper]](https://arxiv.org/abs/2404.06654) | [[Github]](https://github.com/NVIDIA/RULER) |
