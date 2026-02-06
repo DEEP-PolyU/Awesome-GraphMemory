@@ -27,8 +27,8 @@ This repository provides a comprehensive collection of research papers, benchmar
 > **[Awesome Graph-based Agent Memory](#awesome-graph-based-agent-memory)**
 >
 > - **[🔥 News](#-news)**
-> - **[📚 Related Survey](#-survey)**
 > - **[📖 Overview](#-overview)**
+> - **[📚 Related Survey](#-survey)**
 > - **[🪴 Taxonomy](#-taxonomy)**
 >   - [Memory Extraction](#memory-extraction)
 >   - [Memory Storage](#memory-storage)
