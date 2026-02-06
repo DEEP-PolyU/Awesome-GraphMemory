@@ -264,38 +264,61 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 
 # 🏆 Benchmarks
-| Dataset | Scenario | Modality | Feature | Paper | Repo |  
-| :--- | :--- | :--- | :--- | :--- | :--- |  
-| LoCoMo | Interaction | Text+Image | Long conversational memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://snap-research.github.io/locomo/) |
-| LongMemEval | Interaction | Text | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/xiaowu0162/LongMemEval) | 
-| MemoryAgentBench | Interaction | Text | Multi-turn interactions | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/HUST-AI-HYZ/MemoryAgentBench) | 
-| MEMTRACK | Interaction | Text+Code+Logs | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2510.01353) | [[Website]](https://arxiv.org/abs/2510.01353) | 
-| MADial-Bench | Interaction | Text | Memory-augmented dialogue generation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/hejunqing/MADial-Bench) | 
-| MemSim | Interaction | Text | Bayesian memory simulation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/nuster1128/MemSim) | 
-| ChMapData | Interaction | Text | Memory-aware proactive dialogue | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/FrontierLabs/MapDia) | 
-| MSC | Interaction | Text | Multi-session chat  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://parl.ai/projects/msc/) | 
-| MMRC | Interaction | Text+Image | Multi-modal real-world conversation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/haochen-MBZUAI/MMRC) | 
-| MemBench | Interaction | Text | Interactive scenarios | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/import-myself/Membench) | 
-| StoryBench | Interaction | Text | Interactive fiction memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://arxiv.org/abs/2506.13356) | 
-| DialSim | Interaction | Text | Multi-dialogue understanding | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://arxiv.org/abs/2406.13144) | 
-| RealMem | Interaction | Text | Project-oriented long-term memory interaction | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/AvatarMemory/RealMemBench) | 
-| PersonaMem | Personalization | Text | Dynamic user profiling   | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/bowen-upenn/PersonaMem) | 
-| PerLTQA | Personalization | Text | Social personalized interactions | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://arxiv.org/abs/2402.16288) | 
-| MemoryBank | Personalization | Text | User memory updating | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) | 
-| MPR | Personalization | Text | User personalization  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/nuster1128/MPR) | 
-| PrefEva | Personalization | Text | Personal preferences | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://prefeval.github.io/) | 
-| LOCCO | Personalization | Text | Chronological conversations | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/JamesLLMs/LoCoGen) | 
-| WebChoreArena | Web  | Text+Image | Tedious web browsing | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/WebChoreArena/WebChoreArena) | 
-| MT-Mind2Web | Web  | Text | Conversational web navigation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/magicgh/self-map) | 
-| WebShop | Web  | Text+Image | E-commerce web interaction  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/princeton-nlp/WebShop) | 
-| WebArena | Web  | Text+Image | Web interaction | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/web-arena-x/webarena) | 
-| MMInA | Web  | Text+Image | Multihop web agent | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
-| NQ | LongContext  | Text | Natural question answering | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
-| TriviaQA | LongContext  | Text | Large-scale question answering  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
-| PopQA | LongContext  | Text | Adaptive retrieval augmentation  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
-| HotpotQA | LongContext  | Text | Explainable multi-hop QA  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
-| 2wikimultihopQA | LongContext  | Text | Multi-hop QA | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
-| Musique | LongContext  | Text | Multi-hop QA | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
+| Dataset | Scenario | Modality | Feature | Paper | Repo |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| LoCoMo | Interaction | Text+Image | Long conversational memory | [[arXiv'24]](https://arxiv.org/abs/2402.17753) | [[Website]](https://snap-research.github.io/locomo/) |
+| LongMemEval | Interaction | Text | Long-term interactive memory | [[arXiv'24]](https://arxiv.org/abs/2410.10813) | [[Github]](https://github.com/xiaowu0162/LongMemEval) |
+| MemoryAgentBench | Interaction | Text | Multi-turn interactions | [[arXiv'25]](https://arxiv.org/abs/2507.05257) | [[Github]](https://github.com/HUST-AI-HYZ/MemoryAgentBench) |
+| MEMTRACK | Interaction | Text+Code+Logs | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2510.01353) | [[Website]](https://arxiv.org/abs/2510.01353) |
+| MADial-Bench | Interaction | Text | Memory-augmented dialogue generation | [[arXiv'24]](https://arxiv.org/abs/2409.15240) | [[Github]](https://github.com/hejunqing/MADial-Bench) |
+| MemSim | Interaction | Text | Bayesian memory simulation | [[arXiv'24]](https://arxiv.org/abs/2409.20163) | [[Github]](https://github.com/nuster1128/MemSim) |
+| ChMapData | Interaction | Text | Memory-aware proactive dialogue | [[arXiv'25]](https://arxiv.org/abs/2503.05150) | [[Github]](https://github.com/FrontierLabs/MapDia) |
+| MSC | Interaction | Text | Multi-session chat | [[Paper]](https://arxiv.org/abs/2205.10367) | [[Website]](https://parl.ai/projects/msc/) |
+| MMRC | Interaction | Text+Image | Multi-modal real-world conversation | [[arXiv'25]](https://arxiv.org/abs/2502.11903) | [[Github]](https://github.com/haochen-MBZUAI/MMRC) |
+| MemBench | Interaction | Text | Interactive scenarios | [[Paper]](https://arxiv.org/abs/2501.10590) | [[Github]](https://github.com/import-myself/Membench) |
+| StoryBench | Interaction | Text | Interactive fiction memory | [[arXiv'25]](https://arxiv.org/abs/2506.13356) | [[Website]](https://arxiv.org/abs/2506.13356) |
+| DialSim | Interaction | Text | Multi-dialogue understanding | [[arXiv'24]](https://arxiv.org/abs/2406.13144) | [[Website]](https://arxiv.org/abs/2406.13144) |
+| RealMem | Interaction | Text | Project-oriented long-term memory interaction | [[arXiv'26]](https://arxiv.org/abs/2601.06966) | [[Github]](https://github.com/AvatarMemory/RealMemBench) |
+| PersonaMem | Personalization | Text | Dynamic user profiling | [[Paper]](https://arxiv.org/abs/2502.04002) | [[Github]](https://github.com/bowen-upenn/PersonaMem) |
+| PerLTQA | Personalization | Text | Social personalized interactions | [[arXiv'24]](https://arxiv.org/abs/2402.16288) | [[Website]](https://arxiv.org/abs/2402.16288) |
+| MemoryBank | Personalization | Text | User memory updating | [[Paper]](https://arxiv.org/abs/2406.00594) | [[Github]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
+| MPR | Personalization | Text | User personalization | [[Paper]](https://arxiv.org/abs/2502.02332) | [[Github]](https://github.com/nuster1128/MPR) |
+| PrefEval | Personalization | Text | Personal preferences | [[Paper]](https://arxiv.org/abs/2502.17487) | [[Website]](https://prefeval.github.io/) |
+| LOCCO | Personalization | Text | Chronological conversations | [[Paper]](https://arxiv.org/abs/2505.04730) | [[Github]](https://github.com/JamesLLMs/LoCoGen) |
+| WebChoreArena | Web | Text+Image | Tedious web browsing | [[arXiv'25]](https://arxiv.org/abs/2506.01952) | [[Github]](https://github.com/WebChoreArena/WebChoreArena) |
+| MT-Mind2Web | Web | Text | Conversational web navigation | [[arXiv'24]](https://arxiv.org/abs/2402.15057) | [[Github]](https://github.com/magicgh/self-map) |
+| WebShop | Web | Text+Image | E-commerce web interaction | [[arXiv'22]](https://arxiv.org/abs/2207.01206) | [[Github]](https://github.com/princeton-nlp/WebShop) |
+| WebArena | Web | Text+Image | Web interaction | [[arXiv'23]](https://arxiv.org/abs/2307.13854) | [[Github]](https://github.com/web-arena-x/webarena) |
+| MMInA | Web | Text+Image | Multihop web agent | [[Paper]](https://arxiv.org/abs/2503.00735) | [[Website]](https://mmina.cliangyu.com/) |
+| NQ | LongContext | Text | Natural question answering | [[Paper]](https://arxiv.org/abs/1906.00300) | [[Website]](https://ai.google.com/research/NaturalQuestions) |
+| TriviaQA | LongContext | Text | Large-scale question answering | [[Paper]](https://arxiv.org/abs/1705.03551) | [[Website]](http://nlp.cs.washington.edu/triviaqa/) |
+| PopQA | LongContext | Text | Adaptive retrieval augmentation | [[Paper]](https://arxiv.org/abs/2305.09902) | [[Github]](https://github.com/AlexTMallen/adaptive-retrieval) |
+| HotpotQA | LongContext | Text | Explainable multi-hop QA | [[Paper]](https://arxiv.org/abs/1809.09600) | [[Website]](https://hotpotqa.github.io/) |
+| 2wikimultihopQA | LongContext | Text | Multi-hop QA | [[Paper]](https://arxiv.org/abs/2011.01060) | [[Github]](https://github.com/Alab-NII/2wikimultihop) |
+| Musique | LongContext | Text | Multi-hop QA | [[Paper]](https://arxiv.org/abs/2202.09726) | [[Github]](https://github.com/stonybrooknlp/musique) |
+| LongBench | LongContext | Text | Long-context understanding | [[arXiv'23]](https://arxiv.org/abs/2308.14508) | [[Github]](https://github.com/THUDM/LongBench) |
+| LongBench v2 | LongContext | Text | Long-context multitasks | [[arXiv'24]](https://arxiv.org/abs/2412.15204) | [[Github]](https://github.com/THUDM/LongBench) |
+| RULER | LongContext | Text | Long-context retrieval | [[arXiv'24]](https://arxiv.org/abs/2404.06654) | [[Github]](https://github.com/NVIDIA/RULER) |
+| BABILong | LongContext | Text | Long-context reasoning | [[arXiv'24]](https://arxiv.org/abs/2406.10149) | [[Github]](https://github.com/booydar/babilong) |
+| MM-Needle | LongContext | Text+Image | Multimodal needle retrieval | [[arXiv'24]](https://arxiv.org/abs/2406.11230) | [[Website]](https://mmneedle.github.io/) |
+| HaluMem | LongContext | Text | Memory hallucination eval | [[arXiv'25]](https://arxiv.org/abs/2511.03506) | [[Github]](https://github.com/MemTensor/HaluMem) |
+| MemoryBench | Continual | Text | Continual learning | [[arXiv'25]](https://arxiv.org/abs/2510.17281) | [[Github]](https://github.com/LittleDinoC/MemoryBench) |
+| LifelongAgentBench | Continual | Text | Lifelong learning | [[arXiv'25]](https://arxiv.org/abs/2505.11942) | [[Website]](https://arxiv.org/abs/2505.11942) |
+| StreamBench | Continual | Text | Continuous online learning | [[arXiv'24]](https://arxiv.org/abs/2406.08747) | [[Website]](https://stream-bench.github.io/) |
+| Evo-Memory | Continual | Text | Test-time learning | [[arXiv'25]](https://arxiv.org/abs/2511.20857) | [[Website]](https://arxiv.org/abs/2511.20857) |
+| Ego4D | Environments | Video+Audio | Egocentric episodic memory | [[Paper]](https://arxiv.org/abs/2110.07058) | [[Website]](https://ego4d-data.org/) |
+| EgoLife | Environments | Video+Audio | Long-context life QA | [[arXiv'25]](https://arxiv.org/abs/2503.03803) | [[Website]](https://egolife-ai.github.io/) |
+| ALFWorld | Environments | Text | Household tasks | [[arXiv'20]](https://arxiv.org/abs/2010.03768) | [[Website]](https://alfworld.github.io/) |
+| BabyAI | Environments | Text | Language navigation | [[arXiv'18]](https://arxiv.org/abs/1810.08272) | [[Website]](https://arxiv.org/abs/1810.08272) |
+| ScienceWorld | Environments | Text | Multi-step science experiments | [[arXiv'22]](https://arxiv.org/abs/2203.07540) | [[Github]](https://github.com/allenai/ScienceWorld) |
+| AgentGym | Environments | Text | Multiple environments | [[arXiv'24]](https://arxiv.org/abs/2406.04151) | [[Website]](https://agentgym.github.io/) |
+| AgentBoard | Environments | Text | Multi-round interaction | [[arXiv'24]](https://arxiv.org/abs/2401.13178) | [[Github]](https://github.com/hkust-nlp/AgentBoard) |
+| SWE-Bench | Tool/Gen | Text+Code | Code repair | [[arXiv'23]](https://arxiv.org/abs/2310.06770) | [[Website]](https://www.swebench.com/) |
+| GAIA | Tool/Gen | Text | Deep research tasks | [[arXiv'23]](https://arxiv.org/abs/2311.12983) | [[Website]](https://huggingface.co/gaia-benchmark) |
+| xBench-DS | Tool/Gen | Text+Image | Deep-search evaluation | [[arXiv'25]](https://arxiv.org/abs/2506.13651) | [[Website]](https://xbench.org/) |
+| ToolBench | Tool/Gen | Text→API | API tool use | [[arXiv'23]](https://arxiv.org/abs/2307.16789) | [[Github]](https://github.com/OpenBMB/ToolBench) |
+| GenAI-Bench | Tool/Gen | Text+Image | Visual generation eval | [[arXiv'24]](https://arxiv.org/abs/2406.13743) | [[Website]](https://arxiv.org/abs/2406.13743) |
+
 
 
 
