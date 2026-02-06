@@ -254,7 +254,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 # 📚 Related Survey Papers
 - (TOIS'25) **A Survey on the Memory Mechanism of Large Language Model-based Agents** [[Paper]](https://dl.acm.org/doi/full/10.1145/3748302)
 - (arXiv'25) **Memory in the Age of AI Agents** [[Paper]](https://arxiv.org/abs/2512.13564)
-- (AIxSET'24) **Memory in LLM-based Multi-agent Systems: Mechanisms, Challenges, and Collective Intelligence** [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176539617.79044553)
+- (arXiv'25) **Memory in LLM-based Multi-agent Systems: Mechanisms, Challenges, and Collective Intelligence** [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176539617.79044553)
 
 
 # 🏆 Benchmarks
