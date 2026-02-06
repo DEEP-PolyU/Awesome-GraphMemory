@@ -44,9 +44,10 @@ This repository provides a comprehensive collection of research papers, benchmar
 * **[2025-02-03]** 🔥🔥 Repository launched based on our survey paper.
 
 ## 🪴 Taxonomy
-<p align="center"><img width="100%" src="figures/extraction.png" /></p>
 
 ### Memory Extraction
+
+<p align="center"><img width="100%" src="figures/extraction.png" /></p>
 
 #### Textual Data
 #### Sequential Data
@@ -63,9 +64,9 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (arXiv‘25) **MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation** [[Paper]](https://arxiv.org/abs/2508.19236)
 - (arXiv‘23) **Multi-Temporal Lip-Audio Memory for Visual Speech Recognition** [[Paper]](https://arxiv.org/abs/2305.04542)
 
+### Memory Storage
 <p align="center"><img width="100%" src="figures/storage.png" /></p>
 
-### Memory Storage
 #### Knowledge Graph Structure
 
 - (TMLR'25) **MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory**  [[Paper]](https://arxiv.org/abs/2404.11672)
