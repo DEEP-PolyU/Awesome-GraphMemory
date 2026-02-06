@@ -49,6 +49,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (arXiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
 - (EMNLP 2025) **Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering** [[Paper]](https://aclanthology.org/2025.emnlp-industry.174/)
 
+<p align="center"><img width="100%" src="figures/storage.png" /></p>
 
 ### Memory Storage
 #### Knowledge Graph Structure
@@ -75,8 +76,6 @@ This repository provides a comprehensive collection of research papers, benchmar
 #### Hybrid Graph Architectures
 - (arXiv 2024) **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks** [[Paper]](https://arxiv.org/abs/2408.03615)
 - (arXiv 2024) **KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph** [[Paper]](https://arxiv.org/abs/2402.11163)
-
-<p align="center"><img width="100%" src="figures/storage.png" /></p>
 
 ### Memory Retrieval
 
