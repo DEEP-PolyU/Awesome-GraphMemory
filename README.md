@@ -49,17 +49,16 @@ This repository provides a comprehensive collection of research papers, benchmar
 ### Memory Extraction
 
 
-- (arXiv‘25) **Can an LLM Induce a Graph? Investigating Memory Drift and Context Length** [[Paper]](https://arxiv.org/pdf/2510.03611?)
+- (arXiv‘25) **Can an LLM Induce a Graph? Investigating Memory Drift and Context Length** [[Paper]](https://arxiv.org/pdf/2510.03611)
 - (arXiv‘24) **On the structural memory of llm agents** [[Paper]](https://arxiv.org/pdf/2412.15266?)
-- (arXiv‘25) **Personaagent with graphrag: Community-aware knowledge graphs for personalized llm** [[Paper]](https://arxiv.org/abs/2511.17467?)
+- (arXiv‘25) **Personaagent with graphrag: Community-aware knowledge graphs for personalized llm** [[Paper]](https://arxiv.org/abs/2511.17467)
 - (arXiv‘25) **Scaling graph chain-of-thought reasoning: A multi-agent framework with efficient llm serving** [[Paper]](https://arxiv.org/pdf/2511.01633)
 - (ACL‘25) **HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model** [[Paper]](https://aclanthology.org/2025.acl-long.1575.pdf)
-
+  
 - (NeurIPS‘23) **Reflexion: Language agents with verbal reinforcement learning** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)
 - (arXiv‘25) **Mem-α: Learning Memory Construction via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2509.25911)
 - (arXiv‘25) **MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation** [[Paper]](https://arxiv.org/abs/2508.19236)
 - (arXiv‘23) **Multi-Temporal Lip-Audio Memory for Visual Speech Recognition** [[Paper]](https://arxiv.org/abs/2305.04542)
-
 
 <p align="center"><img width="100%" src="figures/storage.png" /></p>
 
