@@ -48,6 +48,9 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 ### Memory Extraction
 
+#### Textual Data
+#### Sequential Data
+#### Multimodal Data
 
 - (arXiv‘25) **Can an LLM Induce a Graph? Investigating Memory Drift and Context Length** [[Paper]](https://arxiv.org/pdf/2510.03611)
 - (arXiv‘24) **On the structural memory of llm agents** [[Paper]](https://arxiv.org/pdf/2412.15266?)
