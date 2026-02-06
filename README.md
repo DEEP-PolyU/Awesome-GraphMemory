@@ -64,7 +64,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 #### Multimodal Data
 - (arXiv‘25) **MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation** [[Paper]](https://arxiv.org/abs/2508.19236)
 - (arXiv‘23) **Multi-Temporal Lip-Audio Memory for Visual Speech Recognition** [[Paper]](https://arxiv.org/abs/2305.04542)
-- (NeurIPS‘24) **Optimus-1: Hybrid multimodal memory empowered agents excel in long-horizon tasks** [[Paper]](https://arxiv.org/abs/2305.04542](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5949a8750a110ce1f0631b1776c500a2-Abstract-Conference.html)
+- (NeurIPS‘24) **Optimus-1: Hybrid multimodal memory empowered agents excel in long-horizon tasks** [[Paper]]https://proceedings.neurips.cc/paper_files/paper/2024/hash/5949a8750a110ce1f0631b1776c500a2-Abstract-Conference.html)
 
 ### Memory Storage
 <p align="center"><img width="100%" src="figures/storage.png" /></p>
