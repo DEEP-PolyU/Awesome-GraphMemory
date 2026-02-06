@@ -137,6 +137,11 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (aXiv'25) **Agentevolver: Towards efficient self-evolving agent system**. [[paper]](https://arxiv.org/abs/2511.10395)
 - (TechReport_Moonshot'25) **Kimi K2.5**. [[paper]](https://www.kimi.com/blog/kimi-k2-5.html)
 
+# 📚 Related Survey Papers
+- (arXiv 2025) **Retrieval-Augmented Generation with Graphs (GraphRAG)** [[Paper]](https://arxiv.org/abs/2501.00309)
+- (arXiv 2024) **Graph Retrieval-Augmented Generation: A Survey** [[Paper]](https://arXiv.org/pdf/2408.08921)
+- (AIxSET 2024) **Graph Retrieval-Augmented Generation for Large Language Models: A Survey** [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
+
 
 # 🏆 Benchmarks
 | Dataset | Task | Paper | Repo |
