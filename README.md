@@ -147,7 +147,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 # 🏆 Benchmarks
 | Dataset | Scenario | Modality ｜ Feature ｜ Paper | Repo |  
-| --- | --- | --- | --- | --- | --- |  
+| :--- | :--- | :--- | :--- | :--- | :--- |  
 | LoCoMo | Interaction | Text+Image | Long conversational memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
 | LongMemEval | Interaction | Text | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
 | MemoryAgentBench | Interaction | Text | Multi-turn interactions | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
