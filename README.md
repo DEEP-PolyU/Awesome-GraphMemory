@@ -49,10 +49,10 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (arXiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
 - (EMNLP 2025) **Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering** [[Paper]](https://aclanthology.org/2025.emnlp-industry.174/)
 
-### Memory Storage
 
 <p align="center"><img width="100%" src="figures/storage.png" /></p>
 
+### Memory Storage
 #### Knowledge Graph Structure
 - (TMLR 2025) **MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory**  [[Paper]](https://arxiv.org/abs/2404.11672)
 - (arXiv 2025) **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents** [[Paper]](https://arxiv.org/abs/2407.04363)
