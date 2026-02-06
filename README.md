@@ -145,6 +145,76 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (ACL'25) **In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents** [[Paper]](https://arxiv.org/abs/2503.08026)
 
 
+
+
+
+
+##### Agent-based
+
+
+- [Arxiv'24] **Leveraging knowledge graph-based human-like memory systems to solve partially observable markov decision processes**. [[paper]](https://arxiv.org/abs/2408.05861)
+- [Arxiv'24] **Arigraph: Learning knowledge graph world models with episodic memory for llm agents**. [[paper]](https://arxiv.org/abs/2407.04363)
+- [NeurIPS'24] **Optimus-1: Hybrid multimodal memory empowered agents excel in long-horizon tasks**. [[paper]](https://openreview.net/forum?id=XXOMCwZ6by&referrer=%5Bthe%20profile%20of%20Dongmei%20Jiang%5D(%2Fprofile%3Fid%3D~Dongmei_Jiang2))
+- [Arxiv'25] **Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents**. [[paper]](https://arxiv.org/abs/2511.13593)
+- [ICML'25] **Cradle: Empowering Foundation Agents towards General Computer Control**. [[paper]](https://icml.cc/virtual/2025/poster/46393)
+- [Arxiv'25] **Llm-powered decentralized generative agents with adaptive hierarchical knowledge graph for cooperative planning**. [[paper]](https://arxiv.org/abs/2502.05453)
+- [Arxiv'25] **MemGPT: Towards LLMs as Operating Systems**. [[paper]](https://arxiv.org/abs/2310.08560)
+- [Arxiv'25] **Cognitive Architectures for Language Agents**. [[paper]](https://arxiv.org/abs/2407.04363)
+- [ACL'25] **Hiagent: Hierarchical working memory management for solving long-horizon agent tasks with large language model**. [[paper]](https://aclanthology.org/2025.acl-long.1575.pdf)
+- [Arxiv'25] **GraphCogent: Mitigating LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding**. [[paper]](https://arxiv.org/abs/2508.12379)
+- (Arxiv'25) **Memory-r1: Enhancing large language model agents to manage and utilize memories via reinforcement learning**. [[paper]](https://arxiv.org/abs/2508.19828)
+- (Arxiv'25) **Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-based Planner and Graph-based Policy**. [[paper]](https://arxiv.org/abs/2503.10049)
+- (Arxiv'25) **Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control**. [[paper]](https://arxiv.org/abs/2505.18279)
+- [Arxiv'26] **SwiftMem: Fast Agentic Memory via Query-aware Indexing** [[paper]](https://arxiv.org/pdf/2601.08160)
+
+
+
+#### Retrieval Enhancement Techniques
+
+##### Multi-round Retrieval
+
+
+- [Arxiv'25] **General Agentic Memory Via Deep Research**. [[paper]](https://arxiv.org/abs/2511.18423)
+- [ACL'25 Findings] **Bridging intuitive associations and deliberate recall: Empowering llm personal assistant with graph-structured long-term memory**. [[paper]](https://aclanthology.org/2025.findings-acl.901/)
+- [Arxiv'25] **Rcr-router: Efficient role-aware context routing for multi-agent llm systems with structured memory**. [[paper]](https://arxiv.org/abs/2508.04903)
+- [Arxiv'25] **MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2511.02805)
+- [Arxiv'25] **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning**. [[paper]](https://arxiv.org/abs/2510.13614)
+- [Arxiv'25] **On the structural memory of llm agents**. [[paper]](https://arxiv.org/abs/2412.15266)
+- [Arxiv'25] **LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation**. [[paper]](https://arxiv.org/abs/2510.04851)
+- [Arxiv'25] **Ghost in the minecraft: Generally capable agents for open-world environments via large language models with text-based knowledge and memory**. [[paper]](https://arxiv.org/abs/2305.17144)
+
+
+##### Post-Retrieval 
+
+
+- [ACL'25 Findings] **Simgrag: Leveraging similar subgraphs for knowledge graphs driven retrieval-augmented generation**. [[paper]](https://aclanthology.org/2025.findings-acl.163/)
+- [Arxiv'25] **Mirix: Multi-agent memory system for llm-based agents**. [[paper]](https://arxiv.org/abs/2507.07957)
+- [Arxiv'25] **MemGen: Weaving Generative Latent Memory for Self-Evolving Agents**. [[paper]](https://arxiv.org/abs/2509.24704
+
+
+
+
+##### Multi-Source Retrieval
+
+
+- [Arxiv'25] **MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2511.02805)
+- [Arxiv'25] ** MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents**. [[paper]](https://arxiv.org/abs/2506.15841)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Memory Evolution
 
 <p align="center"><img width="100%" src="figures/evolution.png" /></p>
