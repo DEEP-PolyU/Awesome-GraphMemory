@@ -53,6 +53,31 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 <p align="center"><img width="100%" src="figures/storage.png" /></p>
 
+#### Knowledge Graph Structure
+- (TMLR 2025) **MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory**  [[Paper]](https://arxiv.org/abs/2404.11672)
+- (arXiv 2025) **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents** [[Paper]](https://arxiv.org/abs/2407.04363)
+- (arXiv 2025) **Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory** [[Paper]](https://arxiv.org/abs/2504.19413)
+
+#### Hierarchical Memory Structure
+- (arXiv 2025) **ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents** [[Paper]](https://arxiv.org/abs/2511.12960)
+- (arXiv 2025) **SGMem: Sentence Graph Memory for Long-Term Conversational Agents** [[Paper]](https://arxiv.org/abs/2509.21212)
+- (arXiv 2025) **G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems** [[Paper]](https://arxiv.org/abs/2506.07398)
+- (arXiv 2025) **LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning** [[Paper]](https://arxiv.org/abs/2502.05453)
+- (EMNLP 2024) **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** [[Paper]](https://arxiv.org/abs/2409.19401)
+
+#### Temporal Graph Structure
+- (arXiv 2025) **Zep: A Temporal Knowledge Graph Architecture for Agent Memory** [[Paper]](https://arxiv.org/abs/2501.13956)
+- (arXiv 2025) **TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues** [[Paper]](https://arxiv.org/abs/2502.01630)
+- (arXiv 2025) **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning** [[Paper]](https://arxiv.org/abs/2510.13614)
+
+#### Hypergraph Structure
+- (arXiv 2025) **HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation** [[Paper]](https://arxiv.org/abs/2503.21322)
+- (arXiv 2025) **HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge** [[Paper]](https://arxiv.org/abs/2502.18125)
+
+#### Hybrid Graph Architectures
+- (arXiv 2024) **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks** [[Paper]](https://arxiv.org/abs/2408.03615)
+- (arXiv 2024) **KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph** [[Paper]](https://arxiv.org/abs/2402.11163)
+
 ### Memory Retrieval
 
 <p align="center"><img width="100%" src="figures/retrieval.png" /></p>
