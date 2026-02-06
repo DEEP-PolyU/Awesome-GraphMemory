@@ -146,10 +146,21 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 
 # 🏆 Benchmarks
-| Dataset | Task | Paper | Repo |
-| --- | --- | --- | --- |
-| GraphRAG-Bench | GraphRAG evaluation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
-| DIGIMON | Large-scale graphRAG | [[arXiv'25]](https://www.arxiv.org/pdf/2503.04338) | [[Github]](https://github.com/JayLZhou/GraphRAG) |
+| Dataset | Scenario | Modality ｜ Feature ｜ Paper | Repo |
+| --- | --- | --- | --- | --- | --- |
+| LoCoMo | Interaction | Text+Image | Long conversational memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| LongMemEval | Interaction | Text | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| MemoryAgentBench | Interaction | Text | Multi-turn interactions | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| MEMTRACK | Interaction | Text+Code+Logs | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| MADial-Bench | Interaction | Text | Memory-augmented dialogue generation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| MemSim | Interaction | Text | Bayesian memory simulation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| ChMapData | Interaction | Text+Image | Memory-aware proactive dialogue | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| MSC | Interaction | Text | Multi-session chat  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| MMRC | Interaction | Text+Image | Multi-modal real-world conversation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| MemBench | Interaction | Text+Code+Logs | Interactive scenarios | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| StoryBench | Interaction | Text | Interactive fiction memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| DialSim | Interaction | Text | Multi-dialogue understanding | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| RealMem | Interaction | Text | Project-oriented long-term memory interaction | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
 
 # 💻 Open-source Project
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://langchain-ai.github.io/langmem/) LangMem: a software development kit (SDK) from LangChain designed to give AI agents long-term memory
