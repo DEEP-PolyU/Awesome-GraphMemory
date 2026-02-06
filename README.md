@@ -273,7 +273,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 | MADial-Bench | Interaction | Text | Memory-augmented dialogue generation | [[arXiv'24]](https://arxiv.org/abs/2409.15240) | [[Github]](https://github.com/hejunqing/MADial-Bench) |
 | MemSim | Interaction | Text | Bayesian memory simulation | [[arXiv'24]](https://arxiv.org/abs/2409.20163) | [[Github]](https://github.com/nuster1128/MemSim) |
 | ChMapData | Interaction | Text | Memory-aware proactive dialogue | [[arXiv'25]](https://arxiv.org/abs/2503.05150) | [[Github]](https://github.com/FrontierLabs/MapDia) |
-| MSC | Interaction | Text | Multi-session chat | [[Paper]](https://arxiv.org/abs/2205.10367) | [[Website]](https://parl.ai/projects/msc/) |
+| MSC | Interaction | Text | Multi-session chat | [[Paper]](https://arxiv.org/abs/2107.07567) | [[Website]](https://parl.ai/projects/msc/) |
 | MMRC | Interaction | Text+Image | Multi-modal real-world conversation | [[arXiv'25]](https://arxiv.org/abs/2502.11903) | [[Github]](https://github.com/haochen-MBZUAI/MMRC) |
 | MemBench | Interaction | Text | Interactive scenarios | [[Paper]](https://arxiv.org/abs/2501.10590) | [[Github]](https://github.com/import-myself/Membench) |
 | StoryBench | Interaction | Text | Interactive fiction memory | [[arXiv'25]](https://arxiv.org/abs/2506.13356) | [[Website]](https://arxiv.org/abs/2506.13356) |
