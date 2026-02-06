@@ -51,7 +51,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 ### Memory Storage
 
-<p align="center"><img width="100%" src="figures/illustration_memory_construction.png" /></p>
+<p align="center"><img width="100%" src="figures/storage.png" /></p>
 
 ### Memory Retrieval
 
