@@ -293,7 +293,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 | MMInA | Web | Text+Image | Multihop web agent | [[Paper]](https://arxiv.org/abs/2404.09992) | [[Website]](https://mmina.cliangyu.com/) |
 | NQ | LongContext | Text | Natural question answering | [[Paper]](https://aclanthology.org/Q19-1026/) | [[Website]](https://ai.google.com/research/NaturalQuestions) |
 | TriviaQA | LongContext | Text | Large-scale question answering | [[Paper]](https://arxiv.org/abs/1705.03551) | [[Website]](http://nlp.cs.washington.edu/triviaqa/) |
-| PopQA | LongContext | Text | Adaptive retrieval augmentation | [[Paper]](https://arxiv.org/abs/2305.09902) | [[Github]](https://github.com/AlexTMallen/adaptive-retrieval) |
+| PopQA | LongContext | Text | Adaptive retrieval augmentation | [[Paper]](https://aclanthology.org/2023.acl-long.546/) | [[Github]](https://github.com/AlexTMallen/adaptive-retrieval) |
 | HotpotQA | LongContext | Text | Explainable multi-hop QA | [[Paper]](https://arxiv.org/abs/1809.09600) | [[Website]](https://hotpotqa.github.io/) |
 | 2wikimultihopQA | LongContext | Text | Multi-hop QA | [[Paper]](https://arxiv.org/abs/2011.01060) | [[Github]](https://github.com/Alab-NII/2wikimultihop) |
 | Musique | LongContext | Text | Multi-hop QA | [[Paper]](https://arxiv.org/abs/2202.09726) | [[Github]](https://github.com/stonybrooknlp/musique) |
