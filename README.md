@@ -148,9 +148,9 @@ This repository provides a comprehensive collection of research papers, benchmar
 # 🏆 Benchmarks
 | Dataset | Scenario | Modality | Feature | Paper | Repo |  
 | :--- | :--- | :--- | :--- | :--- | :--- |  
-| LoCoMo | Interaction | Text+Image | Long conversational memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
-| LongMemEval | Interaction | Text | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
-| MemoryAgentBench | Interaction | Text | Multi-turn interactions | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
+| LoCoMo | Interaction | Text+Image | Long conversational memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://snap-research.github.io/locomo/) |
+| LongMemEval | Interaction | Text | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/xiaowu0162/LongMemEval) | 
+| MemoryAgentBench | Interaction | Text | Multi-turn interactions | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/HUST-AI-HYZ/MemoryAgentBench) | 
 | MEMTRACK | Interaction | Text+Code+Logs | Long-term interactive memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
 | MADial-Bench | Interaction | Text | Memory-augmented dialogue generation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
 | MemSim | Interaction | Text | Bayesian memory simulation | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
@@ -161,7 +161,6 @@ This repository provides a comprehensive collection of research papers, benchmar
 | StoryBench | Interaction | Text | Interactive fiction memory | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
 | DialSim | Interaction | Text | Multi-dialogue understanding | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
 | RealMem | Interaction | Text | Project-oriented long-term memory interaction | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
-
 | PersonaMem | Personalization | Text | Dynamic user profiling   | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
 | PerLTQA | Personalization | Text | Social personalized interactions | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
 | MemoryBank | Personalization | Text | User memory updating | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) | 
