@@ -284,6 +284,14 @@ This repository provides a comprehensive collection of research papers, benchmar
 | WebShop | Web  | Text+Image | E-commerce web interaction  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/princeton-nlp/WebShop) | 
 | WebArena | Web  | Text+Image | Web interaction | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/web-arena-x/webarena) | 
 | MMInA | Web  | Text+Image | Multihop web agent | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
+| NQ | LongContext  | Text | Natural question answering | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
+| TriviaQA | LongContext  | Text | Large-scale question answering  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
+| PopQA | LongContext  | Text | Adaptive retrieval augmentation  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
+| HotpotQA | LongContext  | Text | Explainable multi-hop QA  | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
+| 2wikimultihopQA | LongContext  | Text | Multi-hop QA | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
+| Musique | LongContext  | Text | Multi-hop QA | [[arXiv'25]](https://arxiv.org/abs/2506.05690) | [[Website]](https://mmina.cliangyu.com/) | 
+
+
 
 # 💻 Open-source Project
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://langchain-ai.github.io/langmem/) LangMem: a software development kit (SDK) from LangChain designed to give AI agents long-term memory
