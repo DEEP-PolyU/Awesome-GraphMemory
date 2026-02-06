@@ -284,7 +284,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 | MemoryBank | Personalization | Text | User memory updating | [[Paper]](https://arxiv.org/abs/2305.10250) | [[Github]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
 | MPR | Personalization | Text | User personalization | [[Paper]](https://arxiv.org/abs/2508.13250) | [[Github]](https://github.com/nuster1128/MPR) |
 | PrefEval | Personalization | Text | Personal preferences | [[Paper]](https://arxiv.org/abs/2502.09597) | [[Website]](https://prefeval.github.io/) |
-| LOCCO | Personalization | Text | Chronological conversations | [[Paper]](https://arxiv.org/abs/2505.04730) | [[Github]](https://github.com/JamesLLMs/LoCoGen) |
+| LOCCO | Personalization | Text | Chronological conversations | [[Paper]](https://aclanthology.org/2025.findings-acl.1014/) | [[Github]](https://github.com/JamesLLMs/LoCoGen) |
 | WebChoreArena | Web | Text+Image | Tedious web browsing | [[Paper]](https://arxiv.org/abs/2506.01952) | [[Github]](https://github.com/WebChoreArena/WebChoreArena) |
 | MT-Mind2Web | Web | Text | Conversational web navigation | [[Paper]](https://arxiv.org/abs/2402.15057) | [[Github]](https://github.com/magicgh/self-map) |
 | WebShop | Web | Text+Image | E-commerce web interaction | [[Paper]](https://arxiv.org/abs/2207.01206) | [[Github]](https://github.com/princeton-nlp/WebShop) |
