@@ -103,6 +103,48 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 <p align="center"><img width="100%" src="figures/retrieval.png" /></p>
 
+
+#### Retrieval Techniques
+
+##### Similarity-based
+- (CVPR'25) **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory** [[Paper]](https://arxiv.org/abs/2508.09736)
+- (aXiv'25) **Zep: a temporal knowledge graph architecture for agent memory**. [[paper]](https://arxiv.org/abs/2501.13956)
+- (aXiv'25) **Mem0: Building production-ready ai agents with scalable long-term memory**. [[paper]](https://arxiv.org/abs/2504.19413)
+- (arXiv'25) **G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems** [[Paper]](https://arxiv.org/abs/2506.07398)
+
+##### Rule-based
+- (arXiv'25) **MemInsight: Autonomous Memory Augmentation for LLM Agents** [[Paper]](https://arxiv.org/abs/2503.21760)
+- (arXiv'25) **Neural Graph Memory: A Structured Approach to Long-Term Memory in Multimodal Agents** [[Paper]](https://www.researchgate.net/publication/394440420_Neural_Graph_Memory_A_Structured_Approach_to_Long-Term_Memory_in_Multimodal_Agents)
+- (IEEE Trans. Big Data) **FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design** [[Paper]](https://arxiv.org/abs/2311.13743)
+- (CHI'24) **"My agent understands me better": Integrating Dynamic Human-like Memory Recall and Consolidation in LLM-Based Agents** [[Paper]](https://arxiv.org/abs/2404.00573)
+- (ACL'25 Findings) **TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues** [[Paper]](https://arxiv.org/abs/2502.01630)
+
+##### Graph-based
+- (aXiv'25) **Mem0: Building production-ready ai agents with scalable long-term memory**. [[paper]](https://arxiv.org/abs/2504.19413)
+- (aXiv'25) **Zep: a temporal knowledge graph architecture for agent memory**. [[paper]](https://arxiv.org/abs/2501.13956)
+- (arXiv'25) **G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems** [[Paper]](https://arxiv.org/abs/2506.07398)
+- (arXiv'25) **SGMem: Sentence Graph Memory for Long-Term Conversational Agents** [[Paper]](https://arxiv.org/abs/2509.21212)
+- (arXiv'25) **Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents** [[Paper]](https://arxiv.org/abs/2507.22925)
+- (arXiv'25) **LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning** [[Paper]](https://arxiv.org/abs/2511.01448)
+
+##### Temporal-based
+
+- (arXiv'25) **AssoMem: Scalable Memory QA with Multi-Signal Associative Retrieval** [[Paper]](https://arxiv.org/abs/2510.10397)
+- (arXiv'25) **Mnemosyne: An Unsupervised, Human-Inspired Long-Term Memory Architecture for Edge-Based LLMs** [[Paper]](https://arxiv.org/abs/2510.08601)
+- (aXiv'25) **Zep: a temporal knowledge graph architecture for agent memory**. [[paper]](https://arxiv.org/abs/2501.13956)
+- (arXiv'25) **LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning** [[Paper]](https://arxiv.org/abs/2511.01448)
+- (arXiv'25) **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning** [[Paper]](https://arxiv.org/abs/2510.13614)
+
+##### RL-based
+- (EMNLP'24) **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** [[Paper]](https://arxiv.org/abs/2409.19401)
+- (arXiv'25) **Memento: Fine-tuning LLM Agents without Fine-tuning LLMs** [[Paper]](https://arxiv.org/abs/2508.16153)
+- (arXiv‘25) **Mem-α: Learning Memory Construction via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2509.25911)
+- (arXiv'25) **From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory** [[Paper]](https://arxiv.org/abs/2511.07800)
+- (arXiv'25) **Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning** [[Paper]](https://arxiv.org/abs/2503.05193)
+- (aXiv'25) **Memory-r1: Enhancing large language model agents to manage and utilize memories via reinforcement learning**. [[paper]](https://arxiv.org/abs/2508.19828)
+- (ACL'25) **In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents** [[Paper]](https://arxiv.org/abs/2503.08026)
+
+
 ### Memory Evolution
 
 <p align="center"><img width="100%" src="figures/evolution.png" /></p>
