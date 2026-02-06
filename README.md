@@ -283,7 +283,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 | PersonaMem | Personalization | Text | Dynamic user profiling | [[Paper]](https://arxiv.org/abs/2504.14225) | [[Github]](https://github.com/bowen-upenn/PersonaMem) |
 | PerLTQA | Personalization | Text | Social personalized interactions | [[Paper]](https://arxiv.org/abs/2402.16288) | [[Website]](https://arxiv.org/abs/2402.16288) |
 | MemoryBank | Personalization | Text | User memory updating | [[Paper]](https://arxiv.org/abs/2305.10250) | [[Github]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
-| MPR | Personalization | Text | User personalization | [[Paper]](https://arxiv.org/abs/2502.02332) | [[Github]](https://github.com/nuster1128/MPR) |
+| MPR | Personalization | Text | User personalization | [[Paper]](https://arxiv.org/abs/2508.13250) | [[Github]](https://github.com/nuster1128/MPR) |
 | PrefEval | Personalization | Text | Personal preferences | [[Paper]](https://arxiv.org/abs/2502.17487) | [[Website]](https://prefeval.github.io/) |
 | LOCCO | Personalization | Text | Chronological conversations | [[Paper]](https://arxiv.org/abs/2505.04730) | [[Github]](https://github.com/JamesLLMs/LoCoGen) |
 | WebChoreArena | Web | Text+Image | Tedious web browsing | [[Paper]](https://arxiv.org/abs/2506.01952) | [[Github]](https://github.com/WebChoreArena/WebChoreArena) |
