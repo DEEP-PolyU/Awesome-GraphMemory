@@ -154,8 +154,15 @@ This repository provides a comprehensive collection of research papers, benchmar
 # 💻 Open-source Project
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://langchain-ai.github.io/langmem/) LangMem:
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjunlp/LightMem) LightMem:
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OPPO-PersonalAI/O-Mem) O-Mem
-- 
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OPPO-PersonalAI/O-Mem) O-Mem:
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaviraOSS/OpenMemory) OpenMemory:
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemoriLabs/Memori) Memori:
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MemMachine/MemMachine) MemMachine:
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kingjulio8238/Memary) Memary:
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getzep/graphiti) Graphiti:
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memvid/memvid) Memvid:
+
+
 ## 📃 Citation
 
 ```
