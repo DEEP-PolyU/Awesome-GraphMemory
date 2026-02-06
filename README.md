@@ -169,27 +169,27 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 
 
-#### Retrieval Enhancement Techniques
+#### Retrieval Strategy
 
 ##### Multi-round Retrieval
 
 
-- [Arxiv'25] **General Agentic Memory Via Deep Research**. [[paper]](https://arxiv.org/abs/2511.18423)
+- [arXiv'25] **General Agentic Memory Via Deep Research**. [[paper]](https://arxiv.org/abs/2511.18423)
 - [ACL'25 Findings] **Bridging intuitive associations and deliberate recall: Empowering llm personal assistant with graph-structured long-term memory**. [[paper]](https://aclanthology.org/2025.findings-acl.901/)
-- [Arxiv'25] **Rcr-router: Efficient role-aware context routing for multi-agent llm systems with structured memory**. [[paper]](https://arxiv.org/abs/2508.04903)
-- [Arxiv'25] **MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2511.02805)
-- [Arxiv'25] **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning**. [[paper]](https://arxiv.org/abs/2510.13614)
-- [Arxiv'25] **On the structural memory of llm agents**. [[paper]](https://arxiv.org/abs/2412.15266)
-- [Arxiv'25] **LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation**. [[paper]](https://arxiv.org/abs/2510.04851)
-- [Arxiv'25] **Ghost in the minecraft: Generally capable agents for open-world environments via large language models with text-based knowledge and memory**. [[paper]](https://arxiv.org/abs/2305.17144)
+- [arXiv'25] **Rcr-router: Efficient role-aware context routing for multi-agent llm systems with structured memory**. [[paper]](https://arxiv.org/abs/2508.04903)
+- [arXiv'25] **MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2511.02805)
+- [arXiv'25] **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning**. [[paper]](https://arxiv.org/abs/2510.13614)
+- [arXiv'25] **On the structural memory of llm agents**. [[paper]](https://arxiv.org/abs/2412.15266)
+- [arXiv'25] **LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation**. [[paper]](https://arxiv.org/abs/2510.04851)
+- [arXiv'25] **Ghost in the minecraft: Generally capable agents for open-world environments via large language models with text-based knowledge and memory**. [[paper]](https://arxiv.org/abs/2305.17144)
 
 
 ##### Post-Retrieval 
 
 
 - [ACL'25 Findings] **Simgrag: Leveraging similar subgraphs for knowledge graphs driven retrieval-augmented generation**. [[paper]](https://aclanthology.org/2025.findings-acl.163/)
-- [Arxiv'25] **Mirix: Multi-agent memory system for llm-based agents**. [[paper]](https://arxiv.org/abs/2507.07957)
-- [Arxiv'25] **MemGen: Weaving Generative Latent Memory for Self-Evolving Agents**. [[paper]](https://arxiv.org/abs/2509.24704
+- [arXiv'25] **Mirix: Multi-agent memory system for llm-based agents**. [[paper]](https://arxiv.org/abs/2507.07957)
+- [arXiv'25] **MemGen: Weaving Generative Latent Memory for Self-Evolving Agents**. [[paper]](https://arxiv.org/abs/2509.24704
 
 
 
@@ -197,8 +197,8 @@ This repository provides a comprehensive collection of research papers, benchmar
 ##### Multi-Source Retrieval
 
 
-- [Arxiv'25] **MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2511.02805)
-- [Arxiv'25] ** MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents**. [[paper]](https://arxiv.org/abs/2506.15841)
+- [arXiv'25] **MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2511.02805)
+- [arXiv'25] ** MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents**. [[paper]](https://arxiv.org/abs/2506.15841)
 
 
 
