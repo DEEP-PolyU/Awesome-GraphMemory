@@ -43,7 +43,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 * **[2025-02-03]** 🔥🔥 Repository launched based on our survey paper.
 
 ## 🪴 Taxonomy
-<p align="center"><img width="100%" src="figures/illustration_memory_extraction.png" /></p>
+<p align="center"><img width="100%" src="figures/extraction.png" /></p>
 
 ### Memory Extraction
 - (arXiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
