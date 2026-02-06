@@ -138,7 +138,15 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (TechReport_Moonshot'25) **Kimi K2.5**. [[paper]](https://www.kimi.com/blog/kimi-k2-5.html)
 
 
+# 🏆 Benchmarks
+| Dataset | Task | Paper | Repo |
+| --- | --- | --- | --- |
+| GraphRAG-Bench | GraphRAG evaluation | [[arXiv 2025]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
+| DIGIMON | Large-scale graphRAG | [[arXiv 2025]](https://www.arxiv.org/pdf/2503.04338) | [[Github]](https://github.com/JayLZhou/GraphRAG) |
 
+# 💻 Open-source Project
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hawksight-AI/semantica) Semantica: an open-source, production-ready semantic layer and GraphRAG framework that sits between raw corpora and LLMs.
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bibinprathap/VeritasGraph) Graph RAG pipeline that runs locally with ollama and has full source attribution 
 
 ## 📃 Citation
 
