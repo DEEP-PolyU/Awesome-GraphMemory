@@ -34,7 +34,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 >   - [Memory Storage](#memory-storage)
 >   - [Memory Retrieval](#memory-retrieval)
 >   - [Memory Evolution](#memory-evolution)
-> - **[📦 Benchmark](#-benchmark)**
+> - **[🏆 Benchmark](#-benchmark)**
 > - **[📦 Projects](#-projects)**
 > - **[📃 Citation](#-citation)**
 
