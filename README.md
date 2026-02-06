@@ -189,7 +189,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 - [ACL'25 Findings] **Simgrag: Leveraging similar subgraphs for knowledge graphs driven retrieval-augmented generation**. [[paper]](https://aclanthology.org/2025.findings-acl.163/)
 - [arXiv'25] **Mirix: Multi-agent memory system for llm-based agents**. [[paper]](https://arxiv.org/abs/2507.07957)
-- [arXiv'25] **MemGen: Weaving Generative Latent Memory for Self-Evolving Agents**. [[paper]](https://arxiv.org/abs/2509.24704
+- [arXiv'25] **MemGen: Weaving Generative Latent Memory for Self-Evolving Agents**. [[paper]](https://arxiv.org/abs/2509.24704)
 
 
 
