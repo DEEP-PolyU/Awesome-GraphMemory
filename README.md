@@ -107,6 +107,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 #### Hybrid Graph Architectures
 
+- (arXiv'26) **MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents** [[Paper]](https://arxiv.org/abs/2601.03236)
 - (arXiv'24) **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks** [[Paper]](https://arxiv.org/abs/2408.03615)
 - (arXiv'24) **KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph** [[Paper]](https://arxiv.org/abs/2402.11163)
 
@@ -147,13 +148,14 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (arXiv'25) **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning** [[Paper]](https://arxiv.org/abs/2510.13614)
 
 ##### RL-based
-- (EMNLP'24) **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** [[Paper]](https://arxiv.org/abs/2409.19401)
+- (arXiv'26) **MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents** [[Paper]](https://arxiv.org/abs/2601.03236)
 - (arXiv'25) **Memento: Fine-tuning LLM Agents without Fine-tuning LLMs** [[Paper]](https://arxiv.org/abs/2508.16153)
 - (arXiv‘25) **Mem-α: Learning Memory Construction via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2509.25911)
 - (arXiv'25) **From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory** [[Paper]](https://arxiv.org/abs/2511.07800)
 - (arXiv'25) **Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning** [[Paper]](https://arxiv.org/abs/2503.05193)
 - (aXiv'25) **Memory-r1: Enhancing large language model agents to manage and utilize memories via reinforcement learning**. [[paper]](https://arxiv.org/abs/2508.19828)
 - (ACL'25) **In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents** [[Paper]](https://arxiv.org/abs/2503.08026)
+- (EMNLP'24) **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** [[Paper]](https://arxiv.org/abs/2409.19401)
 
 
 
@@ -233,7 +235,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 #### Internal Self-Evolving
 
-
+- (arXiv'26) **MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents** [[Paper]](https://arxiv.org/abs/2601.03236)
 - (aXiv'25) **Zep: a temporal knowledge graph architecture for agent memory**. [[paper]](https://arxiv.org/abs/2501.13956)
 - (aXiv'25) **Nemori: Self-organizing agent memory inspired by cognitive science**. [[paper]](https://arxiv.org/abs/2508.03341)
 - (aXiv'25) **Mem-α: Learning Memory Construction via Reinforcement Learning**. [[paper]](https://arxiv.org/abs/2509.25911)
