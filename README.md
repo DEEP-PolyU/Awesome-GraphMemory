@@ -337,6 +337,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getzep/graphiti) Graphiti: A framework for building and querying temporally-aware knowledge graphs, specifically tailored for AI agents operating in dynamic environments
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memvid/memvid) Memvid: A single-file memory layer for AI agents with instant retrieval and long-term memory
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ldclabs/anda-hippocampus) Anda Hippocampus: A native graph-based memory system for autonomous AI agents, featuring bio-inspired sleep-based memory consolidation and powered by KIP & AndaDB
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakera-ai/dakera-mcp) Dakera MCP: Self-hosted MCP-native agent memory server with decay-weighted episodic memory and hybrid BM25+HNSW retrieval. 83 MCP tools, 87.8% LoCoMo benchmark, RocksDB persistence, multi-SDK (Python/JS/Rust/Go), Apache-2.0
 
 ## 📃 Citation
 
