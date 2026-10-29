@@ -339,6 +339,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ldclabs/anda-hippocampus) Anda Hippocampus: A native graph-based memory system for autonomous AI agents, featuring bio-inspired sleep-based memory consolidation and powered by KIP & AndaDB
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ModernRelay/omnigraph) Omnigraph: Typed graph database for agent memory. S3-native, Rust, traversal + vector + BM25 in one runtime, Git-style branch/merge.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaylfc/taosmd) taOSmd: Local-first, benchmarked agent memory on an append-only transcript, with a typed temporal knowledge graph where corrected facts supersede old ones via invalidation, plus hybrid vector + BM25 retrieval, tuned for small local models
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OktoLabsAI/okto-neuron) Okto Neuron: Local-first knowledge graph memory for agents, with cited sources and an MCP server. Source-available (Elastic License 2.0).
 
 ## 📃 Citation
 
