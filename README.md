@@ -100,6 +100,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (arXiv'25) **Zep: A Temporal Knowledge Graph Architecture for Agent Memory** [[Paper]](https://arxiv.org/abs/2501.13956)
 - (arXiv'25) **TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues** [[Paper]](https://arxiv.org/abs/2502.01630)
 - (arXiv'25) **MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning** [[Paper]](https://arxiv.org/abs/2510.13614)
+- (AAAI'26) **Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces** [[Paper]](https://arxiv.org/abs/2511.07587)
 
 #### Hypergraph Structure
 
@@ -253,6 +254,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 - (EMNLP'25) **Memory OS of AI Agent**. [[paper]](https://aclanthology.org/2025.emnlp-main.1318.pdf)
 - (aXiv'23) **MemGPT: Towards LLMs as Operating Systems**. [[paper]](https://arxiv.org/abs/2310.08560)
 - (ICML'25) **From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**. [[paper]](https://openreview.net/forum?id=LWH8yn4HS2)
+- (ICML'26) **Panini: Continual Learning in Token Space via Structured Memory** [[Paper]](https://arxiv.org/abs/2602.15156)
 
 #### External Self-Exploration
 
